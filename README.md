@@ -1,45 +1,43 @@
-# Olá, sou Carlos Ferreira 👋
+# Hi, I'm Carlos Ferreira 👋
 
-**AI Product Manager** com interesse em **Inteligência Artificial, Machine Learning e automação de processos**.
+**AI Product Manager** interested in **Artificial Intelligence, Machine Learning, and process automation**.
 
-Busco transformar dados e modelos em soluções que apoiem decisões de negócio, com foco em projetos claros, reproduzíveis e orientados a resultados.
+I focus on turning data and models into solutions that support business decisions, with an emphasis on clear, reproducible, and outcome-driven projects.
 
-## 🔍 Sobre mim
+## 🔍 About me
 
-- Trabalho com Inteligência Artificial aplicada e produtos digitais
-- Tenho experiência prática com Python, dados e modelos de Machine Learning
-- Interesso-me por AutoML, interpretabilidade de modelos e XAI
-- Gosto de transformar conhecimentos técnicos em soluções compreensíveis para diferentes públicos
+- I work with applied AI and digital products
+- I have hands-on experience with Python, data, and Machine Learning models
+- I'm interested in AutoML, model interpretability, and Explainable AI (XAI)
+- I enjoy making technical concepts understandable to different audiences
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-## 📊 Projetos em destaque
+## 📊 Featured projects
 
-### [Previsão de Renda com Machine Learning](https://github.com/carloscesar182/final-ai-project)
+### [Income Prediction with Machine Learning](https://github.com/carloscesar182/final-ai-project)
 
-Pipeline de Machine Learning para prever faixas de renda com Python, pré-processamento de dados, modelos supervisionados, testes e preparação para interpretabilidade com SHAP.
+A Python Machine Learning pipeline for income classification, including data preprocessing, supervised models, tests, and preparation for model explainability with SHAP.
 
-### [Projeto Final de IA Avançada](https://github.com/carloscesar182/ai_advanced_course)
+### [Advanced AI Course Final Project](https://github.com/carloscesar182/ai_advanced_course)
 
-Projeto de classificação de renda comparando múltiplos algoritmos e técnicas de AutoML, com análise de métricas e explicabilidade por SHAP.
+An income classification project comparing multiple algorithms and AutoML techniques, with model metrics and SHAP explainability.
 
-## 🎓 Formação contínua
-
-Atualmente aprofundo conhecimentos em:
+## 🎓 Currently learning
 
 - Machine Learning
-- Deep Learning e Redes Neurais
-- NLP e modelos de linguagem
-- Agentes de IA e RAG
-- AutoML e MLOps
-- Interpretabilidade de modelos
+- Deep Learning and neural networks
+- NLP and language models
+- AI agents and RAG
+- AutoML and MLOps
+- Model interpretability
 
-## 📫 Contato
+## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/carloscferreira/
-- E-mail: carloscesar182@gmail.com
+- Email: carloscesar182@gmail.com
