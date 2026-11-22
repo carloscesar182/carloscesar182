@@ -22,11 +22,11 @@ I focus on turning data and models into solutions that support business decision
 
 ### [Income Prediction with Machine Learning](https://github.com/carloscesar182/final-ai-project)
 
-A Python Machine Learning pipeline for income classification, including data preprocessing, supervised models, tests, and preparation for model explainability with SHAP.
+A focused, standalone Python pipeline for Adult Census Income classification, with data preprocessing, model training, and tests.
 
-### [Advanced AI Course Final Project](https://github.com/carloscesar182/ai_advanced_course)
+### [Advanced AI Course Portfolio](https://github.com/carloscesar182/ai_advanced_course)
 
-An income classification project comparing multiple algorithms and AutoML techniques, with model metrics and SHAP explainability.
+A collection of AI and Machine Learning course notebooks and exercises. It includes the original income-classification capstone; the dedicated repository above presents that project separately.
 
 ## 🎓 Currently learning
 
@@ -39,5 +39,5 @@ An income classification project comparing multiple algorithms and AutoML techni
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/carloscferreira/
-- Email: carloscesar182@gmail.com
+- LinkedIn: [linkedin.com/in/carloscferreira](https://www.linkedin.com/in/carloscferreira/)
+- Email: [carloscesar182@gmail.com](mailto:carloscesar182@gmail.com)
